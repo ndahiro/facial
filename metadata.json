@@ -1,0 +1,8 @@
+{
+  "name": "FaceVerify SDK",
+  "description": "Real-time facial identity verification using device camera with database comparison via secure API and event logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
